@@ -1,1 +1,3 @@
-SELECT id, name FROM products;
+SELECT 
+    *
+FROM products;
